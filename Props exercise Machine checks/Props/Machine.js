@@ -8,6 +8,5 @@ class Machine extends React.Component {
                 <p>{winner ? "Winner" : "Looser"}</p>
             </div>
         )
-
     }
 }
